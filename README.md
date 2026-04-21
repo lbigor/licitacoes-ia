@@ -1,5 +1,8 @@
 # Licitacoes.ia
 
+[![Discussions](https://img.shields.io/github/discussions/lbigor/licitacoes-ia)](https://github.com/lbigor/licitacoes-ia/discussions)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 > Plataforma de inteligência em licitações públicas brasileiras.
 > **Em breve.** Lista de espera: lbigor@icloud.com
 
